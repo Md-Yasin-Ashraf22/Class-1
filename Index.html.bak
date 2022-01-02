@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Class-01</title>
+	</head>
+	<body>
+	
+	<abbr title="Hyper Text Murkrup Language">HTML</abbr>
+	
+	<a href="https://facebook.com" target="_blank">Facebook</a>
+	<h1 title="Ash Boss">Heading One</h1>
+	<h2>Heading Two</h2>
+	<h3>Heading Three</h3>
+	<h4>Heading Four</h4>
+	<h5>Heading Five</h5>
+	<h6>Heading Six</h6>
+	<h7>Heading Seven</h7>
+	
+	<hr width="50%" align="center">
+	
+	<p><b>Yasin</b> <strong>ashraf</strong> is a good boy. He is reading in Inter First Year. He was the ssc candidate of 2021.
+	Now, he is learning web design in Creative IT. In there so many Students are learning Web design with him.</p>
+	
+	<i>This is Italic</i>
+	<em>This is Italic</em>
+	<u>This is Underline</u>
+	
+	<h5>MD Yasin Ashraf<small>Learner</small></h5>
+	<p>H<sub>2</sub>o</p>
+	<p>a<sup>2</sup></p>
+	
+	<blockquote>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma –
+	which is living with the results of other people's thinking. </blockquote>
+	
+	<q>If life were predictable it would cease to be life, and be without flavor. </q>
+	
+	<p>For select all <kbd>ctrl+A</kbd></p>
+	
+	<bdo dir="rtl">For Select all</bdo>
+	
+	<address>9 No, Kapasgola Road (4th Floor),<br>
+Chawk Bazar, Telpotti More, 
+Chattogram 4203, Bangladesh</address>
+    
+	<pre>     Twinkle twinkle little star.
+How I wonder what you are.
+          Up above the world so high.</pre>
+		  
+		  <img src=images/2/banner_6153fa7649091.webp alt="ash man" width="100%">
+		  
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29518.062748165135!2d91.84117748996422!3d22.362770617235256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad277a532a7d51%3A0xced09d60ba2ad3eb!2sCreative%20IT!5e0!3m2!1sbn!2sbd!4v1641145317723!5m2!1sbn!2sbd"
+		  width="600" height="450" style="border:0;" allowfullscreen=" loading="lazy"></iframe>
+
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/DfxiG3lYBVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		<iframe src="https://creativeitinstitutectg.com" width="50%"></iframe>
+	</body>
+</html>
